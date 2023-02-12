@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "473153874132",
+    "project_id": "loginn-80cef",
+    "storage_bucket": "loginn-80cef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473153874132:android:ff6b1c20a5ca439e02f341",
+        "android_client_info": {
+          "package_name": "com.loggin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473153874132-arhptkufsdcqs5l29stu2k7298n1vb7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loggin",
+            "certificate_hash": "2c502d6142bfb67bcfa0e448bec436c2510f2bb4"
+          }
+        },
+        {
+          "client_id": "473153874132-4qe0nc8llo281aav0ej7cl1q0pm2hbvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCTCqf7q0mu9YuN15T_vzB226iMMrqi0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473153874132-4qe0nc8llo281aav0ej7cl1q0pm2hbvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
